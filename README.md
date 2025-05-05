@@ -11,3 +11,7 @@ Sound-Based Repellents: Activates deterrent sounds upon detection to scare off i
 Customizable Alerts: Configurable settings for different types of threats.
 
 User-Friendly Interface: Easy-to-use dashboard for monitoring and managing detection settings.
+
+
+Get Started:  
+
