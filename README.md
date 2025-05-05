@@ -14,4 +14,5 @@ User-Friendly Interface: Easy-to-use dashboard for monitoring and managing detec
 
 
 Get Started:  
+https://github.com/NehaMagadum/internship-project.git
 
