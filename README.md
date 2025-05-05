@@ -1,4 +1,5 @@
-AI-Powered Crop Protection System
+AI-Powered Crop Protection System : 
+
 This repository contains an AI-driven crop protection system designed to safeguard agricultural fields from animals and birds. The system utilizes advanced computer vision techniques to detect intruding wildlife and employs sound-based deterrents to prevent crop damage effectively.
 
 Features:
