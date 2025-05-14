@@ -29,7 +29,7 @@ How To Run:
 
 4.Open proj1.py file in Visual Studio Code.
 
-5.Change the path names of LionroarSound and CrackersSound(Note 2).
+5.Change the path names of LionRoarSound and CrackersSound(Note 2).
 
 6.Run the program.
 
