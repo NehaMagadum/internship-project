@@ -33,6 +33,8 @@ How To Run:
 
 6.Run the program.
 
+7.Show the picture of an animal or bird mentioned in the program.
+
 
 Get Started:  
 https://github.com/NehaMagadum/internship-project.git
